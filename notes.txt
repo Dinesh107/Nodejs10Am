@@ -1,0 +1,36 @@
+Node :- Javascript Run time Environment, node js
+
+How the node works 
+
+         js/node js
+
+chrome  ---> v8(c++) ----> machine code ----> o/p
+
+HTTP and HTTPS 
+
+hyper text transfer protocol    
+
+HTTPS
+
+hyper text transfer protocol secure
+
+
+Node js and Express js 
+
+modeules 
+
+core modules ---> node js programs
+//                
+fs, https, http, path, os
+
+
+                registered functions and varaibles
+node app.js ------>     start program ------->          event loop
+
+
+parsing request body
+
+
+
+
+
