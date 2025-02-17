@@ -23,12 +23,49 @@ core modules ---> node js programs
 //                
 fs, https, http, path, os
 
-
                 registered functions and varaibles
 node app.js ------>     start program ------->          event loop
 
-
 parsing request body
+
+Event Driven and Non Blocking
+
+
+Single Thread
+
+
+your code  ----> single thread ---- fs 
+
+worker pool 
+
+Timers 
+SetTimeout
+SetInterval callbacks
+
+Pending callbacks
+Exceacute I/O releted
+networking
+
+Poll
+
+Check
+setImmidate()
+
+
+
+process.exit
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
