@@ -56,7 +56,15 @@ setImmidate()
 process.exit
 
 
+// understanding npm
 
+// core packages
+
+
+// third party packages - nodemon 
+                         - express js 
+                         - body-parser
+                         
 
 
 
